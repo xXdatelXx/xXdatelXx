@@ -1,1 +1,3 @@
-![picture](https://avatars.mds.yandex.net/get-images-cbir/372669/b30573g8RpEwAPTDw9LVkQ4566/ocr)
+<p align="center">
+  <img src="https://avatars.mds.yandex.net/get-images-cbir/372669/b30573g8RpEwAPTDw9LVkQ4566/ocr" alt="picture" />
+</p>
