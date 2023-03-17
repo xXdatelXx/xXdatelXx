@@ -4,4 +4,3 @@
 <img src="https://streak-stats.demolab.com/?user=Atennop1&theme=tokyonight" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=xXdatelXx&count_private=true&show_icons=true&theme=tokyonight" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXdatelXx&layout=compact&theme=tokyonight" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xXdatelXx&layout=compact&theme=tokyonight" width="50%">
